@@ -1,0 +1,7 @@
+#include <iostream>
+const timex = 10;
+#include "Speed.hpp"
+int main(){
+coutx();
+return 0;
+}
